@@ -1,5 +1,5 @@
 # projeto-wireframe
-Projeto criado pra apresentar técnicas de Flexbox pelo professor <a href="https://willmoreira.com.br/">Will Moreira</a> mentor do curso <a href="https://codeboost.com.br/">Codeboost</a>.
+Projeto criado pra apresentar técnicas de Flexbox!
 
 
 ![section1](https://user-images.githubusercontent.com/62262162/181845432-ce201b8c-77fa-4a30-8eae-190b229377a9.jpg)
