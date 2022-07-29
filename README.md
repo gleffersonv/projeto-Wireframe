@@ -15,7 +15,6 @@ Projeto criado pra apresentar técnicas de Flexbox pelo professor <a href="https
  <ul>
     <li>HTML</li>
     <li>CSS</li>
-    <li>Javascript</li>
  </ul>
 
  ## Bibliotecas
