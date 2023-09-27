@@ -42,7 +42,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🚧 Projeto
 
-Live Preview: <a href="http://gleffersonvicente.com.br/wireframe/">Wireframe</a>
+Live Preview: <a href="https://wireframe-delta.vercel.app/">Wireframe</a>
 
 ## 🎨 Inspiração:
 
